@@ -30,7 +30,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 | Problem | C++ | Java | Python |
 | --- | :---: | :---: | :---: |
-| Day 1: Inverse Captcha | [C++]() | - | - |
+| Day 1: Inverse Captcha | [C++](2017/Day-01-Inverse-Captcha/cpp-2017-01/) | - | - |
+| Day 2: Corruption Checksum | [C++](2017/Day-02-Corruption-Checksum/cpp-2017-02/) | - | - |
 
 ---
 
