@@ -32,6 +32,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | --- | :---: | :---: | :---: |
 | Day 1: Inverse Captcha | [C++](2017/Day-01-Inverse-Captcha/cpp-2017-01/) | - | - |
 | Day 2: Corruption Checksum | [C++](2017/Day-02-Corruption-Checksum/cpp-2017-02/) | - | - |
+| Day 3: Spiral Memory | C++ | - | - |
+| Day 4: High-Entropy Passphrases | [C++](2017/Day-04-High-Entropy-Passphrases/cpp-2017-04/) | - | - |
 
 ---
 
