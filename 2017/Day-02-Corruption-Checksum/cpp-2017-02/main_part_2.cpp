@@ -71,8 +71,6 @@ int main() {
     string line;
     while(!input.eof()){
         getline(input, line);
-        if(line == "")
-            break;
 
         vector<int> row;
         stringstream ss(line);
