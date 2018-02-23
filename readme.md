@@ -32,7 +32,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | --- | :---: | :---: | :---: |
 | Day 1: Inverse Captcha | [C++](2017/Day-01-Inverse-Captcha/cpp-2017-01/) | - | - |
 | Day 2: Corruption Checksum | [C++](2017/Day-02-Corruption-Checksum/cpp-2017-02/) | - | - |
-| Day 3: Spiral Memory | C++ | - | - |
+| Day 3: Spiral Memory | [C++](2017/Day-03-Spiral-Memory/cpp-2017-03/) | - | - |
 | Day 4: High-Entropy Passphrases | [C++](2017/Day-04-High-Entropy-Passphrases/cpp-2017-04/) | - | - |
 | Day 5: A Maze of Twisty Trampolines, All Alike | [C++](2017/Day-05-A-Maze-of-Twisty-Trampolines-All-Alike/cpp-2017-05/) | - | - | 
 | Day 6: Memory Reallocation | [C++](2017/Day-06-Memory-Reallocation/cpp-2017-06/) | - | - |
