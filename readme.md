@@ -44,6 +44,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | Day 12: Digital Plumber | [Link](http://adventofcode.com/2017/day/12) | [C++](2017/Day-12-Digital-Plumber/cpp-2017-12/) | - | - |
 | Day 13: Packet Scanners | [Link](http://adventofcode.com/2017/day/13) | [C++](2017/Day-13-Packet-Scanners/cpp-2017-13/) | - | - |
 | Day 14: Disk Defragmentation | [Link](http://adventofcode.com/2017/day/14) | [C++](2017/Day-14-Disk-Defragmentation/cpp-2017-14/) | [Java](2017/Day-14-Disk-Defragmentation/java-2017-14/src/) | - |
+| Day 15: Dueling Generators | [Link](http://adventofcode.com/2017/day/15) | [C++](2017/Day-15-Dueling-Generators/cpp-2017-15/) | - | - |
 
 ---
 
