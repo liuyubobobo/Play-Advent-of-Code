@@ -84,7 +84,6 @@ private:
 int main() {
 
     cout << Solution().first_larger_value(361527) << endl;
-    // 409870 too high
 
     return 0;
 }
