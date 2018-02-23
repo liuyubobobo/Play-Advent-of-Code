@@ -39,6 +39,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | Day 7: Recursive Circus | [C++](2017/Day-07-Recursive-Circus/cpp-2017-07/) | - | - |
 | Day 8: I Heard You Like Registers | [C++](2017/Day-08-I-Heard-You-Like-Registers/cpp-2017-08/) | - | - |
 | Day 9: Stream Processing | [C++](2017/Day-09-Stream-Processing/cpp-2017-09/) | - | - |
+| Day 10: Knot Hash | [C++](2017/Day-10-Knot-Hash/cpp-2017-10/) | - | - |
 
 ---
 
