@@ -35,6 +35,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | Day 3: Spiral Memory | C++ | - | - |
 | Day 4: High-Entropy Passphrases | [C++](2017/Day-04-High-Entropy-Passphrases/cpp-2017-04/) | - | - |
 | Day 5: A Maze of Twisty Trampolines, All Alike | [C++](2017/Day-05-A-Maze-of-Twisty-Trampolines-All-Alike/cpp-2017-05/) | - | - | 
+| Day 6: Memory Reallocation | [C++](2017/Day-06-Memory-Reallocation/cpp-2017-06/) | - | - |
+| Day 7: Recursive Circus | [C++](2017/Day-07-Recursive-Circus/cpp-2017-07/) | - | - |
 
 ---
 
