@@ -37,6 +37,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | Day 5: A Maze of Twisty Trampolines, All Alike | [C++](2017/Day-05-A-Maze-of-Twisty-Trampolines-All-Alike/cpp-2017-05/) | - | - | 
 | Day 6: Memory Reallocation | [C++](2017/Day-06-Memory-Reallocation/cpp-2017-06/) | - | - |
 | Day 7: Recursive Circus | [C++](2017/Day-07-Recursive-Circus/cpp-2017-07/) | - | - |
+| Day 8: I Heard You Like Registers | [C++](2017/Day-08-I-Heard-You-Like-Registers/cpp-2017-08/) | - | - |
 
 ---
 
