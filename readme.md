@@ -45,6 +45,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | Day 13: Packet Scanners | [Link](http://adventofcode.com/2017/day/13) | [C++](2017/Day-13-Packet-Scanners/cpp-2017-13/) | - | - |
 | Day 14: Disk Defragmentation | [Link](http://adventofcode.com/2017/day/14) | [C++](2017/Day-14-Disk-Defragmentation/cpp-2017-14/) | [Java](2017/Day-14-Disk-Defragmentation/java-2017-14/src/) | - |
 | Day 15: Dueling Generators | [Link](http://adventofcode.com/2017/day/15) | [C++](2017/Day-15-Dueling-Generators/cpp-2017-15/) | - | - |
+| Day 16: Permutation Promenade | [Link](http://adventofcode.com/2017/day/16) | [C++](2017/Day-16-Permutation-Promenade/cpp-2017-16/) | - | - |
 
 ---
 
