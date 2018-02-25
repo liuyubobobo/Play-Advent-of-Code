@@ -47,6 +47,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | Day 15: Dueling Generators | [Link](http://adventofcode.com/2017/day/15) | [C++](2017/Day-15-Dueling-Generators/cpp-2017-15/) | - | - |
 | Day 16: Permutation Promenade | [Link](http://adventofcode.com/2017/day/16) | [C++](2017/Day-16-Permutation-Promenade/cpp-2017-16/) | - | - |
 | Day 17: Spinlock | [Link](http://adventofcode.com/2017/day/17) | [C++](2017/Day-17-Spinlock/cpp-2017-17/) | - | - |
+| Day 18: Duet | [Link](http://adventofcode.com/2017/day/18) | [C++](2017/Day-18-Duet/cpp-2017-18/) | - | - |
 
 ---
 
