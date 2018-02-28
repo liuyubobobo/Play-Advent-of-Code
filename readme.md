@@ -52,6 +52,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | Day 20: Particle Swarm | [Link](http://adventofcode.com/2017/day/20) | [C++](2017/Day-20-Particle-Swarm/cpp-2017-20/) | - | - |
 | Day 21: Fractal Art | [Link](http://adventofcode.com/2017/day/21) | [C++](2017/Day-21-Fractal-Art/cpp-2017-21/) | - | - |
 | Day 22: Sporifica Virus | [Link](http://adventofcode.com/2017/day/22) | [C++](2017/Day-22-Sporifica-Virus/cpp-2017-22/) | - | - |
+| Day 23: Coprocessor Conflagration | [Link](http://adventofcode.com/2017/day/23) | [C++](2017/Day-23-Coprocessor-Conflagration/cpp-2017-23/) | - | - |
+
 
 ---
 
