@@ -53,6 +53,8 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 | Day 21: Fractal Art | [Link](http://adventofcode.com/2017/day/21) | [C++](2017/Day-21-Fractal-Art/cpp-2017-21/) | - | - |
 | Day 22: Sporifica Virus | [Link](http://adventofcode.com/2017/day/22) | [C++](2017/Day-22-Sporifica-Virus/cpp-2017-22/) | - | - |
 | Day 23: Coprocessor Conflagration | [Link](http://adventofcode.com/2017/day/23) | [C++](2017/Day-23-Coprocessor-Conflagration/cpp-2017-23/) | - | - |
+| Day 24: Electromagnetic Moat | [Link](http://adventofcode.com/2017/day/24) | [C++](2017/Day-24-Electromagnetic-Moat/cpp-2017-24/) | - | - |
+| Day 25: The Halting Problem | [Link](http://adventofcode.com/2017/day/25) | [C++](2017/Day-25-The-Halting-Problem/cpp-2017-25/) | - | - |
 
 
 ---
