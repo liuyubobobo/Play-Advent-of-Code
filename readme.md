@@ -1,6 +1,6 @@
-## This is my solutions to Advert of Code
+## This is my solutions to Advent of Code
 
-I will put my solutions to [Advert of Code](http://adventofcode.com/) in this repo. Every problem will be solved in C++; part of the problems will be solved in Java and Python or other languages also. I will try my best to support more language in the future :)
+I will put my solutions to [Advent of Code](http://adventofcode.com/) in this repo. Every problem will be solved in C++; part of the problems will be solved in Java and Python or other languages also. I will try my best to support more language in the future :)
 
 Please feel free to contact me if you have any problems with this repo:)
 
@@ -26,7 +26,7 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ---
 
-### Advert of Code 2017
+### Advent of Code 2017
 
 | Problem | Link | C++ | Java | Python |
 | --- | :---: | :---: | :---: | :---: |
@@ -59,14 +59,15 @@ email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
 
 ---
 
-### Advert of Code 2016
+### Advent of Code 2016
 
-| Problem | C++ | Java | Python |
-| --- | :---: | :---: | :---: |
+| Problem | Link | C++ | Java | Python |
+| --- | :---: | :---: | :---: | :---: |
+| Day 1: No Time for a Taxicab | [Link](http://adventofcode.com/2016/day/1) | [C++](2016/Day-01-No-Time-for-a-Taxicab/cpp-2016-01/) | | |
 
 ---
 
-### Advert of Code 2015
+### Advent of Code 2015
 
-| Problem | C++ | Java | Python |
-| --- | :---: | :---: | :---: |
+| Problem | Link | C++ | Java | Python |
+| --- | :---: | :---: | :---: | :---: |
