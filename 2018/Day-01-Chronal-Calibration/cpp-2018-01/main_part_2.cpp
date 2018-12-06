@@ -35,7 +35,7 @@ public:
 int main() {
 
     ifstream input;
-    input.open("../input.txt");
+    input.open("../../input.txt");
     assert(input.is_open());
 
     vector<int> nums;
