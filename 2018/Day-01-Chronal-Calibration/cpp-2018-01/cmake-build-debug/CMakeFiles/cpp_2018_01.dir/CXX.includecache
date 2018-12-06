@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuyubobobo/Dropbox/code/OJ/Play-Advent-of-Code/2018/Day-01-Chronal-Calibration/cpp-2018-01/main_part_2.cpp
+iostream
+-
+vector
+-
+fstream
+-
+cassert
+-
+unordered_set
+-
+

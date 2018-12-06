@@ -1,0 +1,4 @@
+"/Users/liuyubobobo/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/183.4588.63/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/liuyubobobo/Dropbox/code/OJ/Play-Advent-of-Code/2018/Day-01-Chronal-Calibration/cpp-2018-01
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/liuyubobobo/Dropbox/code/OJ/Play-Advent-of-Code/2018/Day-01-Chronal-Calibration/cpp-2018-01/cmake-build-debug
