@@ -7,4 +7,5 @@
 | Day 3: Toboggan Trajectory | [Link](https://adventofcode.com/2020/day/3) | [C++](Day-03-Toboggan-Trajectory/cpp-2020-03/) | | |
 | Day 4: Passport Processing | [Link](https://adventofcode.com/2020/day/4) | [C++](Day-04-Passport-Processing/cpp-2020-04/) | | |
 | Day 5: Binary Boarding | [Link](https://adventofcode.com/2020/day/5) | [C++](Day-05-Binary-Boarding/cpp-2020-05/) | | |
+| Day 6: Custom Customs | [Link](https://adventofcode.com/2020/day/6) | [C++](Day-06-Custom-Customs/cpp-2020-06/) | | |
 | | | | | |
