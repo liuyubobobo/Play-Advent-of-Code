@@ -1,4 +1,4 @@
-/// Source : https://adventofcode.com/2020/day/5
+/// Source : https://adventofcode.com/2020/day/6#part2
 /// Author : liuyubobobo
 /// Time   : 2020-12-05
 
