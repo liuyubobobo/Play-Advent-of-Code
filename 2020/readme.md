@@ -10,4 +10,5 @@
 | Day 6: Custom Customs | [Link](https://adventofcode.com/2020/day/6) | [C++](Day-06-Custom-Customs/cpp-2020-06/) | | |
 | Day 7: Handy Haversacks | [Link](https://adventofcode.com/2020/day/7) | [C++](Day-07-Handy-Haversacks/cpp-2020-07/) | | |
 | Day 8: Handheld Halting | [Link](https://adventofcode.com/2020/day/8) | [C++](Day-08-Handheld-Halting/cpp-2020-08/) | | |
+| Day 9: Encoding Error | [Link](https://adventofcode.com/2020/day/9) | [C++](Day-09-Encoding-Error/cpp-2020-09/) | | |
 | | | | | |
