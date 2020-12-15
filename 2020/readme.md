@@ -14,4 +14,5 @@
 | Day 10: Adapter Array | [Link](https://adventofcode.com/2020/day/10) | [C++](Day-10-Adapter-Array/cpp-2020-10/) | | |
 | Day 11: Seating System | [Link](https://adventofcode.com/2020/day/11) | [C++](Day-11-Seating-System/cpp-2020-11/) | | |
 | Day 12: Rain Risk | [Link](https://adventofcode.com/2020/day/12) | [C++](Day-12-Rain-Risk/cpp-2020-12/) | | |
+| Day 13: Shuttle Search | [Link](https://adventofcode.com/2020/day/13) | [C++](Day-13-Shuttle-Search/cpp-2020-13/) | | |
 | | | | | |
