@@ -16,4 +16,5 @@
 | Day 12: Rain Risk | [Link](https://adventofcode.com/2020/day/12) | [C++](Day-12-Rain-Risk/cpp-2020-12/) | | |
 | Day 13: Shuttle Search | [Link](https://adventofcode.com/2020/day/13) | [C++](Day-13-Shuttle-Search/cpp-2020-13/) | | |
 | Day 14: Docking Data | [Link](https://adventofcode.com/2020/day/14) | [C++](Day-14-Docking-Data/cpp-2020-14/) | | |
+| Day 15: Rambunctious Recitation | [Link](https://adventofcode.com/2020/day/15) | [C++](Day-15-Rambunctious-Recitation/cpp-2020-15/) | | |
 | | | | | |
