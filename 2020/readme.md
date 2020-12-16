@@ -17,4 +17,5 @@
 | Day 13: Shuttle Search | [Link](https://adventofcode.com/2020/day/13) | [C++](Day-13-Shuttle-Search/cpp-2020-13/) | | |
 | Day 14: Docking Data | [Link](https://adventofcode.com/2020/day/14) | [C++](Day-14-Docking-Data/cpp-2020-14/) | | |
 | Day 15: Rambunctious Recitation | [Link](https://adventofcode.com/2020/day/15) | [C++](Day-15-Rambunctious-Recitation/cpp-2020-15/) | | |
+| Day 16: Ticket Translation | [Link](https://adventofcode.com/2020/day/16) | [C++](Day-16-Ticket-Translation/cpp-2020-16/) | | |
 | | | | | |
