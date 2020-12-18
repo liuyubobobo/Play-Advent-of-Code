@@ -19,4 +19,5 @@
 | Day 15: Rambunctious Recitation | [Link](https://adventofcode.com/2020/day/15) | [C++](Day-15-Rambunctious-Recitation/cpp-2020-15/) | | |
 | Day 16: Ticket Translation | [Link](https://adventofcode.com/2020/day/16) | [C++](Day-16-Ticket-Translation/cpp-2020-16/) | | |
 | Day 17: Conway Cubes | [Link](https://adventofcode.com/2020/day/17) | [C++](Day-17-Conway-Cubes/cpp-2020-17/) | | |
+| Day 18: Operation Order | [Link](https://adventofcode.com/2020/day/18) | [C++](Day-18-Operation-Order/cpp-2020-18/) | | |
 | | | | | |
