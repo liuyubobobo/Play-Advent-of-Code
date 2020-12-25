@@ -22,4 +22,5 @@
 | Day 18: Operation Order | [Link](https://adventofcode.com/2020/day/18) | [C++](Day-18-Operation-Order/cpp-2020-18/) | | |
 | Day 19: Monster Messages | [Link](https://adventofcode.com/2020/day/19) | [C++](Day-19-Monster-Messages/cpp-2020-19/) | | |
 | Day 20: Jurassic Jigsaw | [Link](https://adventofcode.com/2020/day/20) | [C++](Day-20-Jurassic-Jigsaw/cpp-2020-20/) | | |
+| Day 21: Allergen Assessment | [Link](https://adventofcode.com/2020/day/21) | [C++](Day-21-Allergen-Assessment/cpp-2020-21/) | | |
 | | | | | |
